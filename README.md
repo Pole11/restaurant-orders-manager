@@ -112,7 +112,7 @@ Frontend 🎁
 - [x] create a ```components``` folder in the ```src``` folder and create the files for the components
 - [x] create the components
   - [x] ```import React, { Component } from 'react'``` & ```import { Link } from 'react-router-dom'```
-  - [x] all the components are different, but we can subdivde them in three categories, *create*, *update*, *list*
+  - [x] all the components are different, but we can subdivde them in three categories, *create*, *update*, *list* (sorry if I can't explain them well, but they are long are complex (for me, a beginner), but you can follow this tutorial from freeCodeCamp: [text](https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1) and [video](https://youtu.be/7CqJlxBYj-M))
     - [x] Create 
       - [x] create a form
       - [x] create functions to update the state (use ```setState()```) when the user changes values in the form
